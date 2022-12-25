@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<data>
+    <hospital>
+        <address></address>
+        <doctor>
+            <first_name>Liam</first_name>
+            <last_name>Smith</last_name>
+            <age>43</age>
+            <gender>Male</gender>
+            <pacient>
+                <first_name>Olivia</first_name>
+                <last_name>Williams</last_name>
+                <age>35</age>
+                <gender>Female</gender>
+                <history>
+                    <data disease="0"></data>
+                    <data disease="1"></data>
+                    <data disease="0"></data>
+                </history>
+            </pacient>
+            <pacient>
+                <first_name>Noah</first_name>
+                <last_name></last_name>
+                <age>27</age>
+                <gender>Male</gender>
+                <history>
+                    <data disease="0"></data>
+                    <data disease="1"></data>
+                    <data disease="1"></data>
+                </history>
+            </pacient>
+            <pacient>
+                <first_name>Oliver</first_name>
+                <last_name>Brown</last_name>
+                <age>30</age>
+                <gender>Male</gender>
+                <history>
+                    <data disease="1"></data>
+                    <data disease="1"></data>
+                    <data disease="0"></data>
+                </history>
+            </pacient>
+        </doctor>
+        <doctor>
+            <first_name>Emma</first_name>
+            <last_name>Jones</last_name>
+            <age>31</age>
+            <gender>Female</gender>
+            <pacient>
+                <first_name>William</first_name>
+                <last_name>Davis</last_name>
+                <age>28</age>
+                <gender>Male</gender>
+                <history>
+                    <data disease="1"></data>
+                    <data disease="1"></data>
+                    <data disease="1"></data>
+                </history>
+            </pacient>
+            <pacient>
+                <first_name>Mia</first_name>
+                <last_name></last_name>
+                <age>32</age>
+                <gender>Female</gender>
+                <history>
+                    <data disease="0"></data>
+                    <data disease="0"></data>
+                    <data disease="0"></data>
+                </history>
+            </pacient>
+            <pacient>
+                <first_name>Benjamin</first_name>
+                <last_name>Rodriguez</last_name>
+                <age>23</age>
+                <gender>Male</gender>
+                <history>
+                    <data disease="0"></data>
+                    <data disease="1"></data>
+                    <data disease="0"></data>
+                </history>
+            </pacient>
+        </doctor>
+    </hospital>
+    <hospital>
+        <address></address>
+        <doctor>
+            <first_name>Evelyn</first_name>
+            <last_name>Miller</last_name>
+            <age>38</age>
+            <gender>Female</gender>
+            <pacient>
+                <first_name>Sophia</first_name>
+                <last_name>Martinez</last_name>
+                <age>45</age>
+                <gender>Female</gender>
+                <history>
+                    <data disease="0"></data>
+                    <data disease="1"></data>
+                    <data disease="0"></data>
+                </history>
+            </pacient>
+            <pacient>
+                <first_name>Henry</first_name>
+                <last_name>Hernandez</last_name>
+                <age>46</age>
+                <gender>Male</gender>
+                <history>
+                    <data disease="0"></data>
+                    <data disease="1"></data>
+                    <data disease="1"></data>
+                </history>
+            </pacient>
+            <pacient>
+                <first_name>Isabella</first_name>
+                <last_name>Lopez</last_name>
+                <age>32</age>
+                <gender>Female</gender>
+                <history>
+                    <data disease="1"></data>
+                    <data disease="1"></data>
+                    <data disease="0"></data>
+                </history>
+            </pacient>
+        </doctor>
+        <doctor>
+            <first_name>Elijah</first_name>
+            <last_name>Jones</last_name>
+            <age>41</age>
+            <gender>Male</gender>
+            <pacient>
+                <first_name>Theodore</first_name>
+                <last_name>Brown</last_name>
+                <age>31</age>
+                <gender>Male</gender>
+                <history>
+                    <data disease="0"></data>
+                    <data disease="0"></data>
+                    <data disease="0"></data>
+                </history>
+            </pacient>
+            <pacient>
+                <first_name>Ava</first_name>
+                <last_name>Miller</last_name>
+                <age>37</age>
+                <gender>Female</gender>
+                <history>
+                    <data disease="0"></data>
+                    <data disease="1"></data>
+                    <data disease="0"></data>
+                </history>
+            </pacient>
+            <pacient>
+                <first_name>Elijah</first_name>
+                <last_name>White</last_name>
+                <age>28</age>
+                <gender>Male</gender>
+                <history>
+                    <data disease="0"></data>
+                    <data disease="1"></data>
+                    <data disease="0"></data>
+                </history>
+            </pacient>
+        </doctor>
+    </hospital>
+    <disease id="0">
+        Influenza, commonly known as "the flu", is an infectious disease caused by influenza viruses. Symptoms range from mild to severe and often include fever, runny nose, sore throat, muscle pain, headache, coughing, and fatigue. These symptoms begin from one to four days after exposure to the virus (typically two days) and last for about 2–8 days. Diarrhea and vomiting can occur, particularly in children. Influenza may progress to pneumonia, which can be caused by the virus or by a subsequent bacterial infection. Other complications of infection include acute respiratory distress syndrome, meningitis, encephalitis, and worsening of pre-existing health problems such as asthma and cardiovascular disease. 
+    </disease>
+    <disease id="1">
+        Depression is a mental state of low mood and aversion to activity,[3] which affects more than 280 million people of all ages (about 3.5% of the global population).[4] Classified medically as a mental and behavioral disorder,[5] the experience of depression affects a person's thoughts, behavior, motivation, feelings, and sense of well-being.[6] The core symptom of depression is said to be anhedonia, which refers to loss of interest or a loss of feeling of pleasure in certain activities that usually bring joy to people.[7] Depressed mood is a symptom of some mood disorders such as major depressive disorder and dysthymia;[8] it is a normal temporary reaction to life events, such as the loss of a loved one; and it is also a symptom of some physical diseases and a side effect of some drugs and medical treatments. It may feature sadness, difficulty in thinking and concentration and a significant increase or decrease in appetite and time spent sleeping. People experiencing depression may have feelings of dejection, hopelessness and suicidal thoughts. It can either be short term or long term. 
+    </disease>
+</data>
